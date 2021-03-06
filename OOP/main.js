@@ -1,3 +1,4 @@
-//can be deleted
-console.log("Console log works!");
+import {Blog} from './blog.js';
+import {Post} from './post.js';
+import {User} from './user.js';
 
